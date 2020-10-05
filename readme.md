@@ -27,6 +27,7 @@ npm install -g @angular/cli
 
 ## Install Packages
 ```javascript
+
 // This will install all project's dependencies and dev-dependencies listed in package.json
 cd ng-freshers
 npm install
